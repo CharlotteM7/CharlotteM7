@@ -34,7 +34,7 @@ As part of my MSc, I built a web-based payment service similar to PayPal using P
 
 ## 📫 How to Reach Me
 
-- **Email:** [charlottemackay7@gmail.com]
+- **Email:** charlottemackay7@gmail.com
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/charlotte-mackay)
 
 ---
