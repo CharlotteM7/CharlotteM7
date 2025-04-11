@@ -29,7 +29,7 @@ As part of my MSc, I built a web-based payment service similar to PayPal using P
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlotteM7&show_icons=true&theme=tokyonight" alt="Charlotte's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlotteM7&show_icons=true&theme=tokyonight&hide=rank" alt="Charlotte's GitHub Stats" />
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlotteM7&langs_count=8&layout=donut)
