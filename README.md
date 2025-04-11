@@ -5,7 +5,7 @@ Former Project Manager turned developer, with a 1st class BSc in Computer Scienc
 ## 💻 Tech Stack
 
 - **Languages:** C++, C#, JavaScript, Java, Python, PHP  
-- **Frameworks:** React, Django, Phaser
+- **Frameworks:** React, Django, Phaser, three.js
 - **Game Dev:** Unreal Engine, Unity, SDL
 - **Databases:** SQL, PostgreSQL 
 - **Tools:** Git, Docker, VS Code, TeX
