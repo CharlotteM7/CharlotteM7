@@ -32,6 +32,9 @@ As part of my MSc, I built a web-based payment service similar to PayPal using P
   <img src="https://github-readme-stats.vercel.app/api?username=CharlotteM7&show_icons=true" alt="Charlotte's GitHub Stats" />
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlotteM7&layout=compact)
+
+
 ## 📫 How to Reach Me
 
 - **Email:** charlottemackay7@gmail.com
