@@ -5,18 +5,22 @@ Former Project Manager turned developer, with an MSc Distinction in Advanced Com
 ## 💻 Tech Stack
 
 - **Languages:** C++, C#, JavaScript, Java, Python, PHP  
-- **Frameworks:** React, Django, Phaser, three.js, Jest
+- **Frameworks:** React, TypeScript, Django, Phaser, three.js, Jest
 - **Game Dev:** Unreal Engine, Unity, SDL
 - **Databases:** SQL, PostgreSQL 
-- **Tools:** Git, VS Code, Blender, Docker, CMake, TeX
+- **Tools:** Git, VS Code, Blender, Docker, CMake, TeX, Notion
 
 
 ## 🔭 Currently Working On
 
-**MSc Dissertation Project:**  
-A 3D educational puzzle game designed to teach fundamental cryptography concepts. Delving into complex game mechanics and user-centric design to make learning engaging.
+**Guitar Maintenance App:**  
+Developing an app using TypeScript to help people learn how to carry out maintenance routines on their guitars. Think Duolingo, but instead of learning a language, you learn how to change the strings on your Fender. 
 
 ## 📚 Projects
+
+### [Educational 3D Puzzle Game]
+For my Msc Dissertation I designed and implemented an educational puzzle game teaching basic cryptography concepts. Built quest, puzzle, and interaction systems in C++ and Blueprints. 
+[View project](https://github.com/CharlotteM7/puzzle-solver)
 
 ### [Puzzle Solver App]
 Developed as part of my MSc, this multi-puzzle solver utilises ReactJS and recursive algorithms to solve complex puzzles efficiently.  
