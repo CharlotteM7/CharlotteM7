@@ -20,7 +20,7 @@ Developing an app using TypeScript to help people learn how to carry out mainten
 
 ### [Educational 3D Puzzle Game]
 For my Msc Dissertation I designed and implemented an educational puzzle game teaching basic cryptography concepts. Built quest, puzzle, and interaction systems in C++ and Blueprints. 
-[View project]([https://github.com/CharlotteM7/puzzle-solver](https://github.com/CharlotteM7/MScProject)
+[View project](https://github.com/CharlotteM7/MScProject)
 
 ### [Puzzle Solver App]
 Developed as part of my MSc, this multi-puzzle solver utilises ReactJS and recursive algorithms to solve complex puzzles efficiently.  
