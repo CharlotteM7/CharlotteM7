@@ -1,6 +1,6 @@
 ## Hi there, I'm Charlotte Mackay 👋
 
-Former Project Manager turned developer, with a 1st class BSc in Computer Science for Games and currently pursuing an MSc in Advanced Computer Science.
+Former Project Manager turned developer, with an MSc Distinction in Advanced Computer Science and a 1st class BSc(hons) in Computer Science for Games.
 
 ## 💻 Tech Stack
 
@@ -13,7 +13,7 @@ Former Project Manager turned developer, with a 1st class BSc in Computer Scienc
 
 ## 🔭 Currently Working On
 
-**Masters Dissertation Project:**  
+**MSc Dissertation Project:**  
 A 3D educational puzzle game designed to teach fundamental cryptography concepts. Delving into complex game mechanics and user-centric design to make learning engaging.
 
 ## 📚 Projects
