@@ -33,5 +33,5 @@ I build gameplay, puzzle and level systems in UE5. I have a First-Class BSc in C
 
 ## 📫 Get in touch
 
-- **Email:** [email]
-- **LinkedIn:** [LinkedIn link]
+- **Email:** charlottecegrant@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/charlottecegrant/
