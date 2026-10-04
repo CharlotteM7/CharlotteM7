@@ -1,43 +1,37 @@
-## Hi there, I'm Charlotte Mackay 👋
+## Hi, I'm Charlotte Grant 👋
 
-Former Project Manager turned developer, with an MSc Distinction in Advanced Computer Science and a 1st class BSc(hons) in Computer Science for Games. I learn fast, enjoy solving complex problems, and love building things that feel genuinely useful.
+**Technical Designer · Unreal Engine 5 (Blueprints & C++)**, also open to Gameplay Programmer roles.
 
-## 💻 Tech Stack
+I build gameplay, puzzle and level systems in UE5. I have a First-Class BSc in Computer Science for Games (University of Brighton) and a Distinction MSc in Advanced Computer Science (University of Sussex). I'm currently a volunteer level designer on *War of Being*, a VR adventure in Early Access on Steam, and I work as a Junior Full-stack Developer shipping production code.
 
-- **Languages:** C++, C#, JavaScript, Java, Python, PHP  
-- **Frameworks:** React, TypeScript, Django, Phaser, three.js, Jest
-- **Game Dev:** Unreal Engine, Unity, SDL
-- **Databases:** SQL, PostgreSQL 
-- **Tools:** Git, VS Code, Blender, Docker, CMake, TeX, Notion
+🎮 **Portfolio:** https://charlottem7.github.io/Portfolio/
 
+## ⭐ Start here: C++ you can review
 
-## 🔭 Currently Working On
+| Project | What to look at | Code |
+|---|---|---|
+| **Educational Cryptography Puzzle Game** (MSc dissertation) | A third-person UE5 puzzle game that teaches cryptography through clue-based progression. Modular cipher puzzles, clues and an objective manager in C++, with content built in Blueprints. | [Source/MScProject](https://github.com/CharlotteM7/MScProject/tree/master/Source/MScProject) |
+| **Procedural World Generation System** (BSc dissertation) | Runtime terrain in UE5 C++: Perlin-noise generation with biome rules, async chunk streaming with LOD, and foliage spawned from terrain metadata. | [Repo](https://github.com/CharlotteM7/CI601Project), starting with [WorldGenerator.cpp](https://github.com/CharlotteM7/CI601Project/blob/main/WorldGenerator.cpp) |
+| **Multiplayer Pong** | Built on my university module's SDL2/C++ client and Java server starter code. I wrote the gameplay and networking on top: client-side prediction, power-ups, particles and extra game modes (about 400 lines of C++ in MyGame.cpp). | [MyGame.cpp](https://github.com/CharlotteM7/CI628-PongClient/blob/master/src/MyGame.cpp) · [my changes to the client](https://github.com/CharlotteM7/CI628-PongClient/compare/fea3a1a...master) · [server](https://github.com/CharlotteM7/CI628-PongServer) |
 
-**Guitar Maintenance App:**  
-A TypeScript-based learning tool that teaches guitar maintenance routines step-by-step (e.g. restringing a Fender Strat).
-Think Duolingo, but for instrument care.
+## 🗺️ Level & games design
 
-## 📚 Projects
+- **Volunteer Level Designer · DMTesseracT Ltd** (2025 – present): designing and greyboxing new level spaces in UE5 for an upcoming update to [*War of Being*](https://store.steampowered.com/app/2475790/War_Of_Being/), shaping encounter flow, pacing and player-readable navigation, and prototyping interactions in Blueprints. Team uses Perforce; new content is under NDA.
+- **Puzzle-action shooter**: a UE5 game built entirely in Blueprints. 
 
-Check out my portfolio: https://charlottem7.github.io/WebPortfolio/
+## 🛠️ Skills
 
-### 🎓 MSc Project – Educational 3D Puzzle Game
-For my Msc Dissertation I designed and implemented an educational puzzle game teaching basic cryptography concepts. Built quest, puzzle, and interaction systems in C++ and Blueprints.                                                                                                                                         
-[View project](https://github.com/CharlotteM7/MScProject)
+- **Design:** level design, greyboxing, puzzle design, encounter flow and pacing, playtesting and iteration
+- **Unreal Engine 5:** C++ and Blueprints, Gameplay Framework, Behaviour Trees, Animation Blueprints, UMG, PCG, World Partition
+- **Programming:** C++, C#, Python, Java, JavaScript/TypeScript, PHP
+- **Tools:** Git, Perforce, Visual Studio, CMake, Blender
 
-### 🧩 Puzzle Solver App
-Developed as part of my MSc, this multi-puzzle solver utilises ReactJS and recursive algorithms to solve complex puzzles efficiently.  
-[View project](https://github.com/CharlotteM7/puzzle-solver)
+## 🧩 Other work
 
-### 💰 Money Transfer Platform
-As part of my MSc, I built a web-based payment service similar to PayPal using Python, Django, and PostgreSQL, with a focus on secure transaction management.  
-[View project](https://github.com/CharlotteM7/webapps2025)
+- [Puzzle Solver](https://github.com/CharlotteM7/puzzle-solver): a React app that solves several puzzle types with recursive algorithms (MSc).
+- [Money Transfer Platform](https://github.com/CharlotteM7/webapps2025): a PayPal-style payment service in Python, Django and PostgreSQL (MSc).
 
-## 📫 How to Reach Me
+## 📫 Get in touch
 
-- **Email:** charlottemackay7@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/charlotte-mackay)
-
----
-
-*I’m always up for a challenging project or collaboration. If you have an opportunity, feel free to get in touch!*
+- **Email:** [email]
+- **LinkedIn:** [LinkedIn link]
